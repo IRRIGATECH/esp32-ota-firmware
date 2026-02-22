@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "url": "https://irrigatech.github.io/esp32-ota-firmware/ota/firmware_1.0.0.bin",
+    "sha256": "7f55191d37497c367282afe6ff6669e51a60c8cec88f1e1696808745d94a02c1",
+    "size": 310672,
+    "notes": "Initial release — EC200 OTA system v1.0.0"
+}
